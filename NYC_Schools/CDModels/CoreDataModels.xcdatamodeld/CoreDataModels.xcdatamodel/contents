@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="20086" systemVersion="21E230" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="School" representedClassName="School" syncable="YES" codeGenerationType="class">
+        <attribute name="dbn" optional="YES" attributeType="String"/>
+        <attribute name="location" optional="YES" attributeType="String"/>
+        <attribute name="overview_paragraph" optional="YES" attributeType="String"/>
+        <attribute name="phone_number" optional="YES" attributeType="String"/>
+        <attribute name="school_email" optional="YES" attributeType="String"/>
+        <attribute name="school_name" optional="YES" attributeType="String"/>
+        <attribute name="total_students" optional="YES" attributeType="String"/>
+        <attribute name="website" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="School" positionX="-36" positionY="9" width="128" height="149"/>
+    </elements>
+</model>
